@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://recipes-cholesterol-loaded-suppliers.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://logging-generic-wanted-likes.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-13 01:56:16 UTC
+Created   : 2026-08-13 06:26:31 UTC
 =======================================================
