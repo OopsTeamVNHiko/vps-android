@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://coupled-celtic-cite-hometown.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://importantly-bug-symbol-hub.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-17 01:16:21 UTC
+Created   : 2026-08-17 05:44:33 UTC
 =======================================================
