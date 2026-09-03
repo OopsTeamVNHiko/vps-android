@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://relations-judicial-phenomenon-trio.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://properly-manhattan-bowling-integrated.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-03 18:31:14 UTC
+Created   : 2026-09-03 22:26:44 UTC
 =======================================================
