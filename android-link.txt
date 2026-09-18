@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://chains-statistics-backup-display.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://deluxe-trips-essentials-journalism.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-18 14:16:49 UTC
+Created   : 2026-09-18 18:16:44 UTC
 =======================================================
