@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://navigator-capitol-integrate-pharmaceutical.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://cult-environment-fat-pepper.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-14 23:10:11 UTC
+Created   : 2026-10-15 03:18:34 UTC
 =======================================================
